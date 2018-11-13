@@ -1,0 +1,35 @@
+2018-10-11 03:46:11	/dtp/test.php
+db selectdb failed : Unknown database 'dtp'
+
+2018-10-11 03:49:07	/dtp/test.php
+db selectdb failed : Unknown database 'dtp'
+
+2018-10-11 03:49:07	/dtp/test.php
+SQL 错误
+select * from `gp_order` where `id`<=20 limit 20
+No database selected
+
+2018-10-11 03:49:21	/dtp/test.php
+db selectdb failed : Unknown database 'dtp'
+
+2018-10-11 03:49:21	/dtp/test.php
+SQL 错误
+select * from `gp_order` where `id`<=20 limit 20
+No database selected
+
+2018-10-11 03:50:07	/dtp/test.php
+db selectdb failed : Unknown database 'dtp'
+
+2018-10-11 03:50:07	/dtp/test.php
+SQL 错误
+select * from `gp_order` where `id`<=20 limit 20
+No database selected
+
+2018-10-11 03:50:21	/dtp/test.php
+db selectdb failed : Unknown database 'dtp'
+
+2018-10-11 03:50:21	/dtp/test.php
+SQL 错误
+select * from `gp_order` where `id`<=20 limit 20
+No database selected
+
